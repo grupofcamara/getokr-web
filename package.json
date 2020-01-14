@@ -72,7 +72,7 @@
     "mixpanel": "0.7.0",
     "moment": "2.10.6",
     "moment-range": "3.0.3",
-    "morgan": "1.6.1",
+    "morgan": "1.9.1",
     "ng-dialog": "0.6.6",
     "ng-draggable": "1.0.0",
     "ng-file-upload": "12.2.13",
