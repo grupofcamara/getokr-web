@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "angucomplete-alt": "2.2.0",
-    "angular": "1.5.2",
+    "angular": "1.7.9",
     "angular-cookie": "4.1.0",
     "angular-cookies": "1.5.2",
     "angular-feature-flags": "1.4.0",
